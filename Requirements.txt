@@ -1,0 +1,7 @@
+
+Package          	           Why it’s required
+streamlit==1.32.0      	   Web UI and chat interface
+requests	                Calling EURI APIs (embeddings & chat)
+faiss-cpu	                Vector database for long-term memory
+numpy	                    Vector and numerical operations
+python-dotenv==1.32.0	    Load API key from .env file
