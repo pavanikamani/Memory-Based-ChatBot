@@ -125,4 +125,13 @@ For every query:
 - **EURI AI APIs** – Embeddings & Chat Completion
 
 
+## Screenshots 
+<img width="1906" height="1037" alt="MCBot 1" src="https://github.com/user-attachments/assets/dfe8c75a-9599-4ab1-a496-55d59c158464" />
+<img width="1893" height="973" alt="MCBot 2" src="https://github.com/user-attachments/assets/c5cc85e0-0a63-4e65-9091-0d2c90abe2e6" />
+<img width="1900" height="1017" alt="MCBot 3" src="https://github.com/user-attachments/assets/c18e6ddc-0da5-4d0a-a38a-bc0bbbea2eb9" />
+
+
+
+
+
 
